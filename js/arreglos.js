@@ -1,6 +1,6 @@
 function ejecutarColores() {
     // Lista fija usando los colores del arcoíris
-    const arcoiris = ["Rojo", "Naranja", "Amarillo", "Verde", "Azul", "Índigo", "Violeta"];
+    const arcoiris = ["Rojo", "Naranja", "Amarillo", "Verde", "Azul", "Celeste", "Morado"];
 
     let entrada = prompt("Ingresa tus colores separados por comas:"); //esta parte pide que se ingresen colores
 
